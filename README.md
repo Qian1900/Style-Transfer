@@ -1,14 +1,14 @@
 # Style-Transfer
 ECE285 Final Project
 
-Description
+##Description
 ===========
 This is project B developed by team Style Transferrr composed of Shihua Sun, Qian Wang, Nansu Xu.
-Requirements
+##Requirements
 ============
 Install package 'imageio' as follow:
 $ pip install --user imageio
-Code organization
+##Code organization
 =================
 cycle_gan_vangogh2photo -- The trained model of cycle-GANs
 vangogh2photo --  Dataset for training cycle-GANs
