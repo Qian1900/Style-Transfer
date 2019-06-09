@@ -4,8 +4,8 @@ ECE285 Final Project
 ## Description
 This is project B developed by team Style Transferrr composed of Shihua Sun, Qian Wang, Nansu Xu.
 ## Requirements
-Install package 'imageio' as follow:
-- $ pip install --user imageio
+Install package 'torch' as follow:
+- $ pip install torch
 ## Code organization
 - cycle_gan_vangogh2photo -- The trained model of cycle-GANs
 - vangogh2photo --  Dataset for training cycle-GANs
